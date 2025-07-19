@@ -22,3 +22,10 @@ This project is a simple yet effective AI-powered blog generator that uses OpenA
    git clone https://github.com/yourusername/AI-Blog-Generator.git
    cd AI-Blog-Generator
 
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the notebook using:
+
+jupyter notebook Blog-Generator.ipynb
