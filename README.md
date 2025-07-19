@@ -37,8 +37,8 @@ This project is a simple yet effective AI-powered blog generator that uses OpenA
 Enter a topic : Rohit shamra
 Enter a additional parameter : Mumbai Indians
 
-# The Legacy of Rohit Sharma: A Mumbai Indians Icon
+The Legacy of Rohit Sharma: A Mumbai Indians Icon
 
-## Introduction: The Rise of a Cricketing Legend
+Introduction: The Rise of a Cricketing Legend
 
-Rohit Sharma, the captain of the Mumbai Indians (MI), has become syn...
+Rohit Sharma, the captain of the Mumbai Indians (MI), has become synonymous with success in the Indian Premier League (IPL). His journey from a promising ...
