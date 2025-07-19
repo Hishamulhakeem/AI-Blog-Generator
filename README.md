@@ -30,3 +30,15 @@ This project is a simple yet effective AI-powered blog generator that uses OpenA
 ## Run the notebook using:
 
 - jupyter notebook Blog-Generator.ipynb
+
+## 📄 Example Output
+
+```bash
+Enter a topic : Rohit shamra
+Enter a additional parameter : Mumbai Indians
+
+# The Legacy of Rohit Sharma: A Mumbai Indians Icon
+
+## Introduction: The Rise of a Cricketing Legend
+
+Rohit Sharma, the captain of the Mumbai Indians (MI), has become syn...
