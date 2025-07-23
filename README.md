@@ -20,8 +20,7 @@ This project is a simple yet effective AI-powered blog generator that uses OpenA
 1. Clone this repo:
    ```bash
    git clone https://github.com/yourusername/AI-Blog-Generator.git
-   cd AI-Blog-Generator
-   
+   cd AI-Blog-Generator   
 
 ## Install dependencies:
 
@@ -41,4 +40,4 @@ The Legacy of Rohit Sharma: A Mumbai Indians Icon
 
 Introduction: The Rise of a Cricketing Legend
 
-Rohit Sharma, the captain of the Mumbai Indians (MI), has become synonymous with success in the Indian Premier League (IPL). His journey from a promising ...
+Rohit Sharma, the captain of the Mumbai Indians (MI), has become synonymous .....
